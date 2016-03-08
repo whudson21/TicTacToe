@@ -1,0 +1,15 @@
+/*
+.game-grid-cell Styling Code
+This styling code will imput the proper stylings to all classes of game-grid-cell
+*/
+
+.game-grid-cell{
+	background: #ddd;
+	text-align: center;
+	height: 100px;
+	width: 100px;
+	font-family: verdana, sans-serif;
+	border-style: solid;
+	border-width: 1px;
+	font-size: 32px;
+}
